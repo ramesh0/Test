@@ -7,5 +7,6 @@ public class Dummy {
 		 int a;
 		 int b;// ok approved.good
 	     int c;
+	     //post poned here
 	}
 }
