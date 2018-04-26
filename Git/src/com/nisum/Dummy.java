@@ -7,10 +7,8 @@ public class Dummy {
 		 int a;
 		 int b;// ok approved.good
 	     int c;
-<<<<<<< HEAD
-	     //post poned here
-=======
 // branch cut has happend here.
->>>>>>> branch 'master' of https://github.com/ramesh0/Test.git
+	     //post poned here
+
 	}
 }
