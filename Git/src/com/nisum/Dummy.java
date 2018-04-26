@@ -12,7 +12,7 @@ public class Dummy {
 	     //fine working..really works good.
 =======
 	     //fine working..yes cool..
->>>>>>> branch 'master' of https://github.com/ramesh0/Test.git
+>>>>>>> branch 'master' of https://github.com/ramesh0/Test.git//
 
 	}
 }
